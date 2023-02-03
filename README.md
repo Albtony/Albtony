@@ -1,6 +1,5 @@
 ### 👋 Hello There!
 You can call me **Tony**, I'm more of a cat person despite my profile picture 👀
-- 🌱 I’m interested on backend stuff
 - 📫 Contact me on albtony21@gmail.com
 
 #### Github Stats:
